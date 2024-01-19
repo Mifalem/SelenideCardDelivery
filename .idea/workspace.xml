@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="adbdcf65-53ad-4385-96b4-43dad67121d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/artifacts/app-card-delivery.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/web/CardDeliveryDifficultTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/web/CardDeliveryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/gradle.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/gradle.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,15 +44,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_directory_selection": "C:/Study/ideaAutotests/SelenideCardDelivery/src/test/java",
-    "last_opened_file_path": "C:/Study/ideaAutotests/SelenideCardDelivery"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Study/ideaAutotests/SelenideCardDelivery/src/test/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Study/ideaAutotests/SelenideCardDelivery&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Gradle.CardDeliveryDifficultTest.shouldTest">
+}</component>
+  <component name="RunManager" selected="Gradle.CardDeliveryTest.shouldTest">
     <configuration name="CardDeliveryDifficultTest.shouldTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -130,9 +124,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.CardDeliveryDifficultTest.shouldTest" />
-        <item itemvalue="Gradle.CardDeliveryTest" />
         <item itemvalue="Gradle.CardDeliveryTest.shouldTest" />
+        <item itemvalue="Gradle.CardDeliveryTest" />
+        <item itemvalue="Gradle.CardDeliveryDifficultTest.shouldTest" />
       </list>
     </recent_temporary>
   </component>
